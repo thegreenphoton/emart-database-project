@@ -1,0 +1,15 @@
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/Main/Main.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/dao/CartDAO.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/dao/CustomerDAO.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/dao/ManagerDAO.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/dao/OrderDAO.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/dao/ProductDAO.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/dao/WarehouseDAO.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/model/Customer.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/model/Order.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/model/Product.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/ui/CustomerInterface.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/ui/ExternalWorldInterface.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/ui/ManagerInterface.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/util/DBConnection.java
+/Users/jaydenudall/CS174AProj_VS/src/main/java/org/ivc/dbms/util/TestConnection.java
