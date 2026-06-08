@@ -37,8 +37,8 @@ The application is built in Java using JDBC and Oracle Autonomous Database. It s
 ## Technologies Used
 
 * Java
-* JDBC
-* Oracle Autonomous Database
+* JDBC (SQL)
+* Oracle Autonomous Database (SQL Developer)
 * Maven
 
 ## Setup
